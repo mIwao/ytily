@@ -1,0 +1,10 @@
+#song-list {
+  width: 40%;
+  float: left;
+  background-color: #66CCFF;
+}
+#lyrics {
+  width: 55%;
+  float: right;
+  background-color: #99FF66;
+}
